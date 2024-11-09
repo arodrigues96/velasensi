@@ -5,8 +5,7 @@
 }
 
 @media (max-width: 800px) {
-    .root svg {
-        width: 90px;
-        height: 16.67px;
+    .root {
+        /* Optionally, you could add some styles here if you want to adjust the appearance for smaller screens */
     }
 }
