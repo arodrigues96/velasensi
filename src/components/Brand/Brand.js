@@ -1,4 +1,4 @@
-]import React from 'react';
+import React from 'react';
 import { navigate } from 'gatsby';
 
 import * as styles from './Brand.module.css';
